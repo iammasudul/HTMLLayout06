@@ -1,0 +1,137 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+header{
+   overflow: hidden;
+   text-align: center;
+ }
+.logo{
+   width: 20%;
+   height: 100px;
+   background-color:teal;
+   color: rebeccapurple;
+   float: left;
+}
+.logo h1{
+   color: orange;
+   padding-top: 30px;
+}
+.banner{
+   width: 80%;
+   height: 100px;
+   background-color:yellowgreen;
+   color: rebeccapurple;
+   float: right;
+}
+.banner h1{
+   color: brown;
+   padding-top: 30px;
+}
+
+.header_bar{
+   height: 50px;
+   background-color:gray;
+   /*padding-top: 10px;*/
+   text-align: center;
+}
+.header_bar h1{
+   color: black;
+   padding-top: 5px;
+}
+
+.article_wrapper{
+   overflow: hidden;
+}
+
+.left{
+   width: 35%;
+   height: 600px;
+   color: blue;
+   text-align: center;
+   float: left;
+}
+.left_top{
+   height: 150px;
+   background-color:lightcoral;
+}
+.left_top h1{
+   padding-top: 60px;
+}
+.left_middle{
+   height: 150px;
+   background-color:lightgoldenrodyellow;
+}
+.left_middle h1{
+   padding-top: 60px;
+}
+.left_bottom{
+   height: 300px;
+   background-color:lightgray;
+}
+.left_bottom h1{
+   padding-top: 135px;
+}
+
+.center{
+   width: 35%;
+   height: 600px;
+   color: purple;
+   text-align: center;
+   float: left;
+}
+.center_top{
+   height: 200px;
+   background-color:gold;
+}
+.center_top h1{
+   padding-top: 85px;
+}
+.center_bottom{
+   height: 400px;
+   background-color:lightseagreen;
+}
+.center_bottom h1{
+   padding-top: 185px;
+}
+
+.right{
+   width: 30%;
+   height: 600px;
+   color: darkgreen;
+   text-align: center;
+   float: right;
+}
+.right_top{
+   height: 100px;
+   background-color:lightskyblue;
+}
+.right_top h1{
+   padding-top: 35px;
+}
+.right_middle{
+   height: 300px;
+   background-color:lightpink;
+}
+.right_middle h1{
+   padding-top: 135px;
+}
+.right_bottom{
+   height: 200px;
+   background-color:linen;
+}
+.right_bottom h1{
+   padding-top: 85px;
+}
+
+footer{
+   background-color:gray;
+   color: rgb(20, 189, 138);
+   height: 100px;
+   text-align: center;
+}
+footer h1{
+   color: rgb(202, 224, 159);
+   padding-top: 35px;
+}
